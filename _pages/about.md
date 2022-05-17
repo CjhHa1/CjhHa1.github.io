@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jianghai Chen**, you can call me **Jianghai** or **Michael** if you prefer. I am an undergraduate student of 
-
-[Nankai University](https://ai.nankai.edu.cn/), supervised by [Prof Boyuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=lZrXynkAAAAJ). Please check my [CV](/files/CV-chunshu.pdf) for further information.
+I am **Jianghai Chen**, you can call me **Jianghai** or **Michael** if you prefer. I am an undergraduate student of [Nankai University](https://ai.nankai.edu.cn/), supervised by [Prof Boyuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=lZrXynkAAAAJ). Please check my [CV](/files/CV-chunshu.pdf) for further information.
 
 **I'm looking for research positions (Ph.D.) and internships. Please drop me an email if your team has openings.**   
 
