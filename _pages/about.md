@@ -43,6 +43,11 @@ Awards
 
 \[2022. 3]. Got one first-authored paper accepted to **ISIE 2022**. Thanks to all my collaborators! 
 
+# Professional services
+
+## Secondary Reviewer
+\[EMNLP 2022] evaluated 1 research paper in NLP (long paper track).
+
 Personal information
 ------
 Personal Hobbies: basketball, fitness, sneakers and cooking. I am keen on learning different dishes. I also enjoy watching movies and listening to music. 
