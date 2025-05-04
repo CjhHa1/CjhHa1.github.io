@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-Chinese"
-title                    : "Jianghai (Michael) Chen"
+title                    : "Jianghai (Michael) CHEN"
 title_separator          : "-"
-name                     : &name "Jianghai Chen"
-description              : &description "Undergraduate Student at Nankai University"
+name                     : &name "Jianghai CHEN"
+description              : &description "Postgraduate Student(Msc. AI) at The University of Hong Kong"
 url                      : https://CjhHa1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CjhHa1.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianghai Chen"
+  name             : "Jianghai CHEN"
   avatar           : "me.png"
-  bio              : "Undergraduate Student at Nankai University"
-  location         : "Tianjin"
+  bio              : "Postgraduate Student(Msc. AI) at The University of Hong Kong"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #" "
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/jianghai-chen-879620281/"
   orcid            : 
   pinterest        :
   soundcloud       :
