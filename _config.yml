@@ -77,6 +77,12 @@ analytics:
   google:
     tracking_id          :
 
+# LeanCloud Visitor Counter (optional)
+# Uncomment and configure the following to enable visitor counting
+# leancloud:
+#   enable: true
+#   app_id: your_app_id_here
+#   app_key: your_app_key_here
 
 # Site Author
 author:
@@ -235,7 +241,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""

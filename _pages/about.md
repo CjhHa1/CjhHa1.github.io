@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jianghai CHEN**, you can call me **Jianghai** or **Michael** if you prefer. I am a post-graduate student of [The University of Hong Kong](https://www.hku.hk/). Before that, I obtained my Bachelor degree at [Nankai University](https://en.nankai.edu.cn/) supervised by [Prof Boyuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=lZrXynkAAAAJ). Please check my [CV](/files/CV-chunshu.pdf) for further information. I am now in the Speech Semantics at [Huawei Noah Ark's Lab](https://www.noahlab.com.hk/#/home)(HongKong) with Xiaozhe Ren(Jocab).
+I am **Jianghai CHEN**, you can call me **Jianghai** or **Michael** if you prefer. I am a post-graduate student of [The University of Hong Kong](https://www.hku.hk/). Before that, I obtained my Bachelor degree at [Nankai University](https://en.nankai.edu.cn/) supervised by [Prof Boyuan Yang](https://scholar.google.com/citations?hl=zh-CN&user=lZrXynkAAAAJ). Please check my [CV](/files/CV_JianghaiChen.pdf) for further information. I am now in the Speech Semantics at [Huawei Noah Ark's Lab](https://www.noahlab.com.hk/#/home)(HongKong) with Xiaozhe Ren(Jocab).
 
 **I'm looking for a MLsys research position(Industry). Please drop me an email if your team has openings.**   
 
 
 Research
 ======
-My current research mainly focus on High-Performance Deep Learning Systems(MLsys) and Self-supervised Learning (e.g. Contrastive Learning, Masked Modeling).I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an [email](cjh18671720497@outlook.com) if you are interested in collaborating with me.  
+My current research mainly focus on High-Performance Deep Learning Systems(MLsys) and Self-supervised Learning (e.g. Contrastive Learning, Masked Modeling).I am always happy to chat with others about interesting research ideas, and looking for academic collaborations. Please drop me an [email](mailto:cjh18671720497@outlook.com) if you are interested in collaborating with me.  
 
 Specifically I am interested in the following research topics:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**HPC: Model Parallelism and Large-scale Pretraining.**  
