@@ -125,3 +125,7 @@ h1{font-size:48px;letter-spacing:-1.5px}
 [data-theme="dark"] .portrait-frame{background:#283346;border-color:#3e4c62}
 [data-theme="dark"] ::selection{background:#385382;color:#fff}
 @media(max-width:640px){.header-actions{gap:12px}.theme-toggle{width:32px;height:32px}}
+
+/* The source has visible artwork at (0, 1)–(237, 73) within a 340 × 75 canvas. */
+.nankai-wordmark{position:relative;display:block;width:100%;aspect-ratio:237/72;overflow:hidden}
+.experience-nankai .nankai-wordmark img{position:absolute;left:0;top:-1.388889%;width:143.459916%;max-width:none;height:auto}
