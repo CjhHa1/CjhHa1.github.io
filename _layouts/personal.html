@@ -12,17 +12,21 @@
   <meta property="og:image" content="https://cjhha1.github.io/images/me.png">
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="icon" href="{{ site.baseurl }}/assets/images/monogram.svg" type="image/svg+xml">
+  <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/personal.css">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="nav-wrap">
-      <a class="wordmark" href="{{ site.baseurl }}/" aria-label="Jianghai Chen home">jc<span>.</span></a>
+      <a class="wordmark" href="{{ site.baseurl }}/" aria-label="Jianghai Chen home">Jianghai Chen<span>.</span></a>
       <nav aria-label="Main navigation">
         <a href="{{ site.baseurl }}/#about">About</a><a href="{{ site.baseurl }}/#research">Research</a><a href="{{ site.baseurl }}/#work">Open source</a><a href="{{ site.baseurl }}/#experience">Experience</a>
       </nav>
-      <a class="header-contact" href="mailto:cjh18671720497@outlook.com">Let's talk <span aria-hidden="true">↗</span></a>
+      <div class="header-actions"><a class="header-contact" href="mailto:cjh18671720497@outlook.com">Let's talk <span aria-hidden="true">↗</span></a><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch to dark mode" hidden>
+        <svg class="theme-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20.5 14A8.5 8.5 0 0 1 10 3.5 8.5 8.5 0 1 0 20.5 14Z"/></svg>
+        <svg class="theme-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.4 1.4m11.2 11.2L19 19M5 19l1.4-1.4M17.6 6.4 19 5"/></svg>
+      </button></div>
     </div>
   </header>
   <main id="main" class="page-wrap document-page"><p class="eyebrow">JIANGHAI CHEN</p><h1>{{ page.title | escape }}</h1><div class="document-content">{{ content }}</div><footer class="site-footer"><span>© Jianghai Chen</span><a href="{{ site.baseurl }}/">Back to home ↗</a></footer></main></body></html>
